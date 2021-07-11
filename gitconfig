@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = corey.plotkin@gmail.com
+	name = Corey Plotkin
